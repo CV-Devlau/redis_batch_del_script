@@ -1,0 +1,2 @@
+# redis_batch_del_script
+一个Redis的批量删除脚本，使用scan和异步删除
